@@ -1,5 +1,20 @@
 # Table of contents
 
-* [Test](README.md)
-* [GitBook New Page](gitbook-new-page.md)
-* sample-api.yaml
+* [Reservation API](README.md)
+* [Reservation Flow Chart](reservation-flow-chart.md)
+* [SOAP Message Structure](soap-message-structure.md)
+* [Error Handling](error-handling.md)
+* [Reservation API Specification](reservation-api-specification/README.md)
+  * [OTA\_HotelResNotifRQ](reservation-api-specification/ota\_hotelresnotifrq.md)
+  * [OTA\_HotelResNotifRS](reservation-api-specification/ota\_hotelresnotifrs.md)
+* [Reservation XML Samples](reservation-xml-samples/README.md)
+  * [Reservation Sample](reservation-xml-samples/reservation-sample.md)
+  * [Maximum Content Sample](reservation-xml-samples/maximum-content-sample.md)
+  * [Minimum Content Sample](reservation-xml-samples/minimum-content-sample.md)
+  * [Multiple Room Reservation Sample](reservation-xml-samples/multiple-room-reservation-sample.md)
+  * [Multiple Rate Plan Reservation Sample](reservation-xml-samples/multiple-rate-plan-reservation-sample.md)
+* [Test Reservation Scenarios](test-reservation-scenarios.md)
+* [Reference Tables](reference-tables/README.md)
+  * [OTA Code List](reference-tables/ota-code-list.md)
+  * [Service and Extra Charges](reference-tables/service-and-extra-charges.md)
+  * [Payment Card Provider Codes](reference-tables/payment-card-provider-codes.md)
