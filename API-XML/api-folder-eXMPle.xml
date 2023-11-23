@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+   <quiz>
+      <question>
+            <text>What does 'API' stand for?</text>
+            <answer>API stands for Application Programming Interface.</answer>
+      </question>
+      <question>
+            <text>What's so good about pragmatic REST?</text>
+            <answer>It's focused on the api consumer, so it makes it easier for developers to contribute to your app library!</answer>
+      </question>
+   </quiz>
+</xml>
