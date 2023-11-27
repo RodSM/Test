@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Page](README.md)
+* [Page 2](README.md)
+* [Page](<README (1).md>)
 * [Page 1](page-1.md)
 * [Minimum Content Sample](minimum-content-sample.md)
 * [Reservation XML Samples](reservation-xml-samples.md)
